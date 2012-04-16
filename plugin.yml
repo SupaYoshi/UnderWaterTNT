@@ -1,0 +1,16 @@
+name: UnderWaterTNT
+main: boardinggamer.underwatertnt.UnderWaterTNT
+version: 1.0
+website: 
+author: boardinggamer
+
+
+description: >
+             TNT works underwater xD
+commands:
+  uwtradius:
+    description: set the radius of TNT when underwater
+    aliases: [uwtr]
+    usage: |
+           /<command> 
+
